@@ -23,6 +23,10 @@ Parts:
 
 ![See Breadboard.svg](http://i.imgur.com/hFH7WhI.jpg?1)
 
+## Image
+
+![Real-life Image](http://i.imgur.com/CF4D0em.jpg)
+
 ## Code
 
 ```c#
